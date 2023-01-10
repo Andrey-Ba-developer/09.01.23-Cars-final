@@ -118,7 +118,7 @@ p {
     justify-content: flex-end;
 }
 
-.header__lng-link {
+.change-lang {
     margin-right: 8px;
 
     font-weight: 600;
@@ -128,15 +128,15 @@ p {
     transition: color .2s ease;
 }
 
-.header__lng-link:last-child {
+.change-lang:last-child {
     margin-right: 0;
 }
 
-.header__lng-link:hover {
+.change-lang:hover {
     color: #fff;
 }
 
-.header__lng-link.active {
+.change-lang.active {
     color: #fff;
 }
 
