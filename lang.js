@@ -117,7 +117,7 @@ const langArr = {
 	},
 	"info__title-3": {
 		"en": "03. GET IT REPAIRED",
-		"ru": "Получите от нас помощь",
+		"ru": "03. Получите от нас помощь",
 	},
 	"info__text-3": {
 		"en": "High quality, low cost car servicing",
