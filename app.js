@@ -27,6 +27,7 @@ function changeLanguage() {
 		}
 	}
 }
+console.log(langArr);
 
 
 changeLanguage();
