@@ -127,12 +127,20 @@ p {
 
 .change-lang {
 	margin-right: 8px;
-
 	font-weight: 600;
+	font-size: 14px;
 	color: #B7B7B7;
 	text-transform: uppercase;
 	text-decoration: none;
 	transition: color .2s ease;
+	background-color: rgba(0, 0, 0, 0);
+	border: none;
+
+}
+
+.change-lang-option {
+	background-color: rgba(0, 0, 0, 0.5);
+	border: none;
 }
 
 .change-lang:last-child {
