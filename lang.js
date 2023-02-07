@@ -152,7 +152,7 @@ const langArr = {
 		"ru": "Отправить",
 	},
 	"copyright": {
-		"en": "© 2021 Auto theme by Frontend Tricks",
-		"ru": "Авто тема от Frontend Tricks",
+		"en": "© 2021 Auto theme by Frontend",
+		"ru": "Авто тема от Frontend",
 	}
 }
